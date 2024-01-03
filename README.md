@@ -11,3 +11,5 @@ Key Features<br>
   3.1.Seamlessly play your favorite songs directly from your playlist.Enjoy your curated playlists and favorite tunes at the click of a button.<br>
 
 Following is demonstration of Project:
+https://github.com/GungunRamchandani/Music-Playlist-Project/assets/150476070/63c4bcd0-ee84-4376-acbf-fb7107ccde8e
+
