@@ -1,4 +1,4 @@
-b>Music Playlist System</b><br>
+<b>Music Playlist System</b><br>
 The Music Playlist System is a comprehensive application designed to streamline your music management experience.<br>
 Key Features<br>
 1.Playlist Management:<br>
